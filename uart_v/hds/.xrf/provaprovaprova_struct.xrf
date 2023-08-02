@@ -1,0 +1,51 @@
+DESIGN provaprovaprova
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 114,0 14 0 
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 119,0 15 0 
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 124,0 16 0 
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN provaprovaprova
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 23
+DESIGN provaprovaprova
+VIEW struct.bd
+GRAPHIC 41,0 32 0 
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN provaprovaprova
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN provaprovaprova
+VIEW struct.bd
+GRAPHIC 147,0 46 0 
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN provaprovaprova
+VIEW struct.bd
+NO_GRAPHIC 52

@@ -1,9 +1,21 @@
-*.mw filter=lfs diff=lfs merge=lfs -text
-*.ibd filter=lfs diff=lfs merge=lfs -text
-*.sm filter=lfs diff=lfs merge=lfs -text
-interface filter=lfs diff=lfs merge=lfs -text
-*.sb filter=lfs diff=lfs merge=lfs -text
-*.bd filter=lfs diff=lfs merge=lfs -text
-*.fc filter=lfs diff=lfs merge=lfs -text
-*.am filter=lfs diff=lfs merge=lfs -text
-*.tt filter=lfs diff=lfs merge=lfs -text
+*.mw filter=lfs diff=lfs merge=lfs -text lockable
+*.ibd filter=lfs diff=lfs merge=lfs -text lockable
+*.sm filter=lfs diff=lfs merge=lfs -text lockable
+interface filter=lfs diff=lfs merge=lfs -text lockable
+*.sb filter=lfs diff=lfs merge=lfs -text lockable
+*.bd filter=lfs diff=lfs merge=lfs -text lockable
+*.fc filter=lfs diff=lfs merge=lfs -text lockable
+*.am filter=lfs diff=lfs merge=lfs -text lockable
+*.tt filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/xmit_rcv_control_fsm.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/address_decode_tbl.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/clock_divider_flow.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/control_operation_fsm.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/cpu_interface_intconx.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/serial_interface_struct.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/uart_top_struct.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/xmit_rcv_control_asm.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/provaprovaprova_struct.vhd filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/status_registers.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/tester_flow.v filter=lfs diff=lfs merge=lfs -text lockable
+uart_v/hdl/uart_tb_struct.v filter=lfs diff=lfs merge=lfs -text lockable

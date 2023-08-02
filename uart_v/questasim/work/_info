@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/MentorGraphics/HDS_2023.2/bin
+vclock_divider
+Z0 !s110 1688476661
+!i10b 1
+!s100 YkenboYVY<nje0O0TPbDc3
+IJ^Jd;LgdTY?RH;XSJI3hW3
+Z1 dC:/MentorGraphics/HDS_2023.2/examples/uart_v/questasim/work
+Z2 w1681210097
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/clock_divider_flow.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/clock_divider_flow.v
+!i122 0
+L0 13 93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2023.1;77
+r1
+!s85 0
+31
+Z5 !s108 1688476661.000000
+!s107 C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_tb_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_top_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/serial_interface_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/status_registers.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/xmit_rcv_control_fsm.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/address_decode_tbl.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/clock_divider_flow.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/cpu_interface_intconx.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/control_operation_fsm.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/tester_flow.v|
+Z6 !s90 -work|UART_V|-nologo|-f|C:/Users/z004scud/AppData/Local/Temp/Files0|
+!i113 0
+Z7 o-nologo -work UART_V -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vcontrol_operation
+R0
+!i10b 1
+!s100 9i1i7C6Q8_W0<37IQL^@<2
+IYDZZO=Oj>7;B?>LA]V3NC1
+R1
+R2
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/control_operation_fsm.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/control_operation_fsm.v
+!i122 0
+L0 12 129
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_tb_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_top_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/serial_interface_struct.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/status_registers.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/xmit_rcv_control_fsm.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/address_decode_tbl.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/clock_divider_flow.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/cpu_interface_intconx.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/control_operation_fsm.v|C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/tester_flow.v|
+R6
+!i113 0
+R7
+R8
+vcpu_interface
+R0
+!i10b 1
+!s100 7=6]l^T@5A`7SMJ8kIacz1
+I99m5Q9o><elaa0mdccP3P1
+R1
+R2
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/cpu_interface_intconx.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/cpu_interface_intconx.v
+!i122 0
+L0 13 70
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vserial_interface
+R0
+!i10b 1
+!s100 7Y>zf:fFQQ]70dH4V7OMR1
+I9W]HZ<MM=_Y_Ca4jL>[5?3
+R1
+Z10 w1685112866
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/serial_interface_struct.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/serial_interface_struct.v
+!i122 0
+L0 13 154
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vstatus_registers
+R0
+!i10b 1
+!s100 1Wcb98FHDcUg1aALTo^e93
+If5Vmlhehk8KnaH5X63PF72
+R1
+R2
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/status_registers.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/status_registers.v
+Z11 8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/xmit_rcv_control_fsm.v
+Z12 FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/xmit_rcv_control_fsm.v
+!i122 0
+L0 11 74
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vtester
+R0
+!i10b 1
+!s100 ;[Z7F@=Qea9fSMDcOYJK>0
+I_O^4IATMKIc0`OCzP`OMI3
+R1
+R2
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/tester_flow.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/tester_flow.v
+!i122 0
+L0 13 279
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vuart_tb
+R0
+!i10b 1
+!s100 m8=Kh5Nc[CV<B;QAf__Q23
+I>0C>;01O6g60Si]k3nG7F3
+R1
+w1685362485
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_tb_struct.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_tb_struct.v
+!i122 0
+L0 13 51
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vuart_top
+R0
+!i10b 1
+!s100 <a[`QTPXVcHENahf5TGL12
+IB::<^F6PG8`=[:97oc2A01
+R1
+R10
+8C:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_top_struct.v
+FC:/MentorGraphics/HDS_2023.2/examples/uart_v/hdl/uart_top_struct.v
+!i122 0
+L0 13 116
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+vxmit_rcv_control
+R0
+!i10b 1
+!s100 8fbg7O?kULg@F9CJ::4AQ3
+IQ5KzJFTH`=2:C0PgSJ5A@0
+R1
+R2
+R11
+R12
+!i122 0
+L0 12 463
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
